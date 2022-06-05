@@ -1,8 +1,8 @@
-### Opa! Eu sou o Gabriel Neow mais conhecido como Gabz Dev!
+### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
 
 - 🔭 Atualmente trabalho como freelancer!
 - 🌱 Estou estudando javascript!
-- 📫 Me Contate No E-Mail: contato@gabzdev.com
+- 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
 - 😄 Pronomes: ele-dele.
 
 <div align="center">
