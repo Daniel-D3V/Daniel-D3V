@@ -10,10 +10,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gabz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Daniel-React" height="30" width="40" src="https://th.bing.com/th/id/R.a3cbbb4a324673ec859b6a78cc6fb1dd?rik=wvtzGQsuJ%2b4S8w&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_145824.png&ehk=vKT%2bS%2fzDaVO%2faVe6cjvjrcb5%2fpkWCTZu36ueaCZp0kg%3d&risl=&pid=ImgRaw&r=0">
 </div>
   
   ##
