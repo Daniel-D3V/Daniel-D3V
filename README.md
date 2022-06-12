@@ -4,6 +4,7 @@
 - 🌱 Estou estudando php!
 - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
 - 😄 Pronomes: ele-dele.
+- ✅ Full Stack Developer
   
 <div align="center">
   <h4>Linguagens</h4>
