@@ -5,7 +5,8 @@
 - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
 - 😄 Pronomes: ele-dele.
   
-  <div style="display: inline_block"><br>
+<div align="center">
+  <h4>Linguagens</h4>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
