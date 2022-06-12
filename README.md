@@ -4,10 +4,6 @@
 - 🌱 Estou estudando php!
 - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
 - 😄 Pronomes: ele-dele.
-
-<div align="center">
-  <h4>Redes sociais</h4>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,8 +13,10 @@
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://bit.ly/3ziZa9O">
 </div>
   
-  ##
-  
+  <div align="center">
+  <h4>Redes sociais</h4>
+</div>
+
   <div> 
   <a href="https://www.youtube.com/channel/UC4zocaahPTXDQEnm4IusWOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/daniel.devl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
