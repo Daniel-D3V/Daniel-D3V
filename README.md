@@ -24,15 +24,6 @@
   <a href="https://www.instagram.com/daniel.devl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/n8MreSR68p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href ="mailto:contatodanielsilvaoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-  
-  <h2 align="center">Social media</h2>
-
-<h2 align="center"</h2>
-
-[![LinkedIn](https://img.shields.io/badge/Youtube----red)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17776779/sarnax) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sarnax2) 
- 
   ![Snake animation](https://github.com/Gabzdeveloper/Gabzdeveloper/blob/output/github-contribution-grid-snake.svg)
  
 </div>
