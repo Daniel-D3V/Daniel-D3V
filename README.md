@@ -16,7 +16,7 @@
 <div align="center">
   <h4>Redes sociais</h4>
 </div>
-  <div align="center">
+  <div>
   <a href="https://www.youtube.com/channel/UC4zocaahPTXDQEnm4IusWOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
   <a href="https://www.instagram.com/daniel.devl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
