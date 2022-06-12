@@ -13,9 +13,7 @@
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://bit.ly/3ziZa9O">
 </div>
-  
-  
-  
+  <br>
 <div align="center">
   <h4>Redes sociais</h4>
 
