@@ -14,6 +14,8 @@
   <img align="center" alt="Daniel-React" height="30" width="40" src="https://bit.ly/3ziZa9O">
 </div>
   
+  
+  
 <div align="center">
   <h4>Redes sociais</h4>
 
