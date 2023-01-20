@@ -1,7 +1,6 @@
 ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
 
 - 🔭 Atualmente trabalho como freelancer!
-- 🌱 Estou estudando php!
 - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
 - 😄 Pronomes: ele-dele.
 - ✅ Full Stack Developer
