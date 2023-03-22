@@ -1,10 +1,8 @@
-<div align="center">
-    ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
-    #- 🔭 Atualmente trabalho como freelancer!
-    - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
-    - 😄 Pronomes: ele-dele.
-    - ✅ Full Stack Developer
-</div>
+### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
+- 🔭 Atualmente trabalho como freelancer!
+- 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
+- 😄 Pronomes: ele-dele.
+- ✅ Full Stack Developer
 <div align="center">
     <h4>Linguagens</h4>
     <img style align="center" alt="Daniel-HTML" height="30" width="40"
