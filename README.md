@@ -21,7 +21,6 @@
 <br>
 <div align="center">
     <h4>Redes sociais</h4>
-
     <a href="https://www.youtube.com/channel/UC4zocaahPTXDQEnm4IusWOQ" target="_blank"><img
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
             target="_blank"></a>
