@@ -1,5 +1,3 @@
-<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:00F260,100:0575E6&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
 
 - 🔭 Atualmente trabalho como freelancer!
@@ -7,10 +5,24 @@
 - 😄 Pronomes: ele-dele.
 - ✅ Full Stack Developer
 
+<style>
+    .button {
+        background: #2f2f2f;
+        border: none;
+        outline: none;
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
 <div align="center">
     <h4>Linguagens</h4>
-    <img align="center" alt="Daniel-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <button class="button"><img style align="center" alt="Daniel-HTML" height="30" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </button>
     <img align="center" alt="Daniel-CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Daniel-Js" height="30" width="40"
@@ -38,4 +50,4 @@
     <a href="https://github.com/Anant-mishra1729?tab=repositories"><img
             src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac"
             width="100%" /></a>
-    </div>
+</div>
