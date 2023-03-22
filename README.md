@@ -1,27 +1,19 @@
-### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
+<div align="center">
+    ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
 
-- 🔭 Atualmente trabalho como freelancer!
-- 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
-- 😄 Pronomes: ele-dele.
-- ✅ Full Stack Developer
-
+    - 🔭 Atualmente trabalho como freelancer!
+    - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
+    - 😄 Pronomes: ele-dele.
+    - ✅ Full Stack Developer
+</div>
 <div align="center">
     <h4>Linguagens</h4>
-    <button
-        style="background: #2f2f2f; border: none; outline: none; width: 50px; height: 50px; border-radius: 5px; display:flex; justify-content: center; align-items: center;">
-        <img style align="center" alt="Daniel-HTML" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </button>
-    <button
-        style="background: #2f2f2f; border: none; outline: none; width: 50px; height: 50px; border-radius: 5px; display:flex; justify-content: center; align-items: center;">
-        <img align="center" alt="Daniel-CSS" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </button>
-    <button
-        style="background: #2f2f2f; border: none; outline: none; width: 50px; height: 50px; border-radius: 5px; display:flex; justify-content: center; align-items: center;">
-        <img align="center" alt="Daniel-Js" height="30" width="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </button>
+    <img style align="center" alt="Daniel-HTML" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Daniel-CSS" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Daniel-Js" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Daniel-React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Daniel-React" height="30" width="40" src="https://bit.ly/3ziZa9O">
