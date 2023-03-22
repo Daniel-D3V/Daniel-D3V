@@ -1,6 +1,5 @@
 <div align="center">
     ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
-
     - 🔭 Atualmente trabalho como freelancer!
     - 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
     - 😄 Pronomes: ele-dele.
