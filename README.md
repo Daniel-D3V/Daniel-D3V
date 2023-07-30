@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/InterFBS">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=InterFBS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InterFBS&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/Daniel-D3V">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-D3V&layout=compact&langs_count=7&theme=midnight-purple"/>
 <div>
 
 ###  Linhuagens em Estudo!    
@@ -33,5 +33,5 @@
   
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/InterFBS/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/Daniel-D3V/count.svg"/>
 </p>
