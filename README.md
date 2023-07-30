@@ -7,7 +7,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-D3V&layout=compact&langs_count=7&theme=midnight-purple"/>
 <div>
 
-###  My Skills
+###  My main skills
 
 </div class=langueges>
   <div style="display: inline_block"><br>
