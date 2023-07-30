@@ -24,6 +24,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lua" height="40" width="50"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+    <img align="center" alt="Php" height="40" width="50"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Git" height="40" width="50"
+      src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
 </div>
   
 ##
