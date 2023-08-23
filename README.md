@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Daniel-D3V">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&random=3"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-D3V&layout=compact&langs_count=7&theme=midnight-purple&random=3"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&changed=1"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-D3V&layout=compact&langs_count=7&theme=midnight-purple&changed=1"/>
 <div>
 
 ###  My main skills
