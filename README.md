@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Daniel-D3V">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true&theme=radical"/>
 <div>
 
 ###  My main skills
