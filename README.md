@@ -9,7 +9,7 @@
 
 </div class=langueges>
   <div style="display: inline_block"><br>
-  <img align="center" alt="NESTJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="NESTJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="NEXTJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Electron" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
